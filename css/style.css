@@ -23,7 +23,7 @@ Clear fix hack
 
 
 body {  
-  color: rgb(15, 5, 15);
+  color: rgb(48, 17, 48);
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
@@ -44,6 +44,10 @@ ul {
 
 li {
   list-style: none;   
+}
+
+a {
+  color: rgb(48, 17, 48);
 }
 
 h1 {
